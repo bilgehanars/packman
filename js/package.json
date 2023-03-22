@@ -1,7 +1,7 @@
 {
     "name": "@bilgehanars/packman",
-    "private": true,
-    "version": "0.0.0",
+    "private": false,
+    "version": "1.0.0",
     "devDependencies": {
         "@flarum/prettier-config": "^1.0.0",
         "flarum-tsconfig": "^1.0.2",

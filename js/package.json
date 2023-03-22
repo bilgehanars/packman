@@ -25,7 +25,5 @@
         "check-typings-coverage": "typescript-coverage-report"
     },
     "prettier": "@flarum/prettier-config",
-    "dependencies": {
-        "mithril": "^2.2.2"
-    }
+    "dependencies": {}
 }

@@ -17,6 +17,7 @@
         "format-check": "prettier --check src"
     },
     "devDependencies": {
+        "bundlewatch": "^0.3.3",
         "prettier": "^2.5.1"
     }
 }

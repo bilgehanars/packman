@@ -2,14 +2,14 @@
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg) [![Latest Stable Version](https://img.shields.io/packagist/v/bilgehanars/packman.svg)](https://packagist.org/packages/bilgehanars/packman) [![Total Downloads](https://img.shields.io/packagist/dt/bilgehanars/packman.svg)](https://packagist.org/packages/bilgehanars/packman)
 
-A [Flarum](http://flarum.org) extension. Package Manager 
+A [Flarum](http://flarum.org) extension. Basic Package Manager. Just type and update/require/remove a package.  
 
 ## Installation
 
 Install with composer:
 
 ```sh
-composer require bilgehanars/packman:"*"
+composer require bilgehanars/packman:dev-master
 ```
 
 ## Updating

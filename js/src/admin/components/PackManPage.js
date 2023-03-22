@@ -8,7 +8,8 @@ export default class PackManPage extends ExtensionPage {
     this.komut = '';
     this.packadi = '';
     this.output = '';
-    app.request({
+    app
+      .request({
         method: 'post',
         url: app.forum.attribute('apiUrl') + '/packman',
         timeout: 100000,

@@ -9,7 +9,7 @@ A [Flarum](http://flarum.org) extension. Basic Package Manager. Just type and up
 Install with composer:
 
 ```sh
-composer require bilgehanars/packman:dev-master
+composer require bilgehanars/packman:"*"
 ```
 
 ## Updating

@@ -3,7 +3,6 @@
 namespace Bilgehanars\PackMan;
 
 use Illuminate\Support\Arr;
-use Laminas\Diactoros\Response\HtmlResponse;
 use Laminas\Diactoros\Response\JsonResponse;
 use Psr\Http\Message\ResponseInterface as Response;
 use Psr\Http\Message\ServerRequestInterface as Request;
